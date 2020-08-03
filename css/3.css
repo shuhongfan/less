@@ -1,0 +1,9 @@
+#warp .sjx {
+  overflow: hidden;
+  width: 0px;
+  height: 0px;
+  border-width: 40px;
+  border-style: dashed  dashed solid dashed;
+  border-color: transparent transparent red transparent;
+}
+/*# sourceMappingURL=3.css.map */

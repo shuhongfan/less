@@ -1,0 +1,54 @@
+//这是见不得人的注释
+/*这是想暴露出去的注释*/
+
+.juzhong(@w:10px,@h:10px,@c:pink){
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: @h;
+  width: @w;
+  background: @c;
+}
+
+@var:0;
+.class{
+  @var:1;
+  .brass{
+    @var:2;
+    three:@var;
+    @var:3;
+  }
+  one: @var;
+}
+
+
+
+@color:red;
+@color1:yellow;
+@m:margin;
+@selector:#wrap;
+
+*{
+  @{m}: 0;
+  padding: 0;
+}
+@{selector}{
+  position: relative;
+  width: 300px;
+  height: 400px;
+  border: 1px solid red;
+  margin: 0 auto;
+  .inner{
+    .juzhong(200px,200px,green);
+    &:hover{
+      background: @color1;
+    }
+  }
+  .inner2{
+    //.juzhong(100px,100px);
+    .juzhong(@h:100px);
+  }
+}

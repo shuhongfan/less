@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9a43560-f780-4cef-8899-f1dea8df2517" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cwZRpF6MYBNaC8cp0MwpYtOA8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Promise" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9a43560-f780-4cef-8899-f1dea8df2517" name="默认的" comment="" />
+      <created>1591441610217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591441610217</updated>
+      <workItem from="1591441611499" duration="4449000" />
+      <workItem from="1591500994787" duration="9153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591443413134">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="460" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1591443413134" />
+    <state x="903" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591513072258">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="903" y="297" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1549.831@0.0.1549.831" timestamp="1591513072258" />
+    <state x="766" y="213" key="EditFileWatcherDialog" timestamp="1591443350521">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="766" y="213" key="EditFileWatcherDialog/0.0.1549.831@0.0.1549.831" timestamp="1591443350521" />
+    <state x="920" y="176" key="FileChooserDialogImpl" timestamp="1591524430705">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="920" y="176" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1591524430705" />
+    <state x="792" y="50" width="694" height="735" key="find.popup" timestamp="1591513067837">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="792" y="50" width="694" height="735" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1591513067837" />
+    <state x="791" y="190" key="run.anything.popup" timestamp="1591443447070">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="791" y="190" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1591443447070" />
+  </component>
+</project>
